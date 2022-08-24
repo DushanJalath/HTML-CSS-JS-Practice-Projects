@@ -78,6 +78,10 @@ h5{
     display: none;
 }
 
+,show{
+    display: block;
+}
+
 .message-content{
     color: #4B830A;
 
