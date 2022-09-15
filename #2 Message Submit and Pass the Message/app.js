@@ -1,10 +1,10 @@
-console.log("sds");
 
-    console.log("sds2");
+
+    
     const form=document.querySelector("#message-form");
     form.addEventListener('submit',function(e){
         e.preventDefault()
-        console.log("sds3");
+
         debugger;
         const message=document.getElementById("messsage");
         const feedback=document.getElementsByClassName("feed");
