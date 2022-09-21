@@ -11,7 +11,7 @@ body{
 .img-container{
     width: 60%;
     height: 90vh;
-    background: url("img/1.jpg") center/cover fixed no-repeat;
+    background: url("img/1.jpg");
     border: 0.5rem solid #1e272e;
     border-radius: 00.5rem;
     position: relative;
@@ -19,9 +19,6 @@ body{
     box-shadow: 10px 10px 35px rgba(0, 0, 0, 0.6) ;
 }
 
-.btn{
-
-}
 
 .btn-left{
     position:absolute;
