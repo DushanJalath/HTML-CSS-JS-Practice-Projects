@@ -12,7 +12,7 @@ generateBtn.addEventListener("click",()=>{
         wrapper.classList.add("active");
         generateBtn.innerText="Generate QR Code";
     });
-    wrapper.classList.add("active");
+    
 });
 
 qrInput.addEventListener("keyup",()=>{
